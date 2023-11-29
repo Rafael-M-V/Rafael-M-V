@@ -2,6 +2,7 @@
 
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-M-V&show_icons=true&theme=dark)
 
+
 ## Technologies
 
 <div style="display: inline-block;"><br/>
@@ -14,6 +15,8 @@
   <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div><br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-M-V)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About me
 I'm a computer scientist graduated by USP - University of São Paulo.<br/>
