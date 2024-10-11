@@ -1,8 +1,5 @@
 ## Hi there! I'm Rafael Meliani Velloso! Welcome to my profile!
 
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-M-V&show_icons=true&theme=dark)
-
-
 ## Technologies
 
 <div style="display: inline-block;"><br/>
