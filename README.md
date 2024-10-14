@@ -15,7 +15,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-M-V)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About me
-I'm a computer scientist graduated by USP - University of São Paulo.<br/>
-My education gave me knowledge in a wide variety of areas, including Web development, machine learning, computer graphics, operating systems, and others.
-I have 8 months of experience working with machine learning, in the field of computer vision, using Python programming language.<br/>
-I value team work and search of knowledge, and hope to meet new and interesting people to work with!
+I'm a computer scientist graduated by USP - University of São Paulo.<br/><br/>
+My education gave me knowledge in a wide variety of areas, including machine learning, computer graphics, operating systems, web development and more.<br/><br/>
+I have experience working with machine learning, and my favorite programming languages are Python and C.
